@@ -1,0 +1,16 @@
+{
+  "name": "workerapi",
+  "version": "1.0.0",
+  "description": "worker para envio de peticiones http",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^3.2.3"
+  }
+}

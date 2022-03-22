@@ -1,0 +1,56 @@
+[
+  {
+    "url": "http://127.0.0.1:8000/api/category",
+    "options": {
+      "method": "GET",
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer dff44bcb-296d-49c1-9296-3bdfe7841985"
+      }
+    }
+  },
+  {
+    "url": "http://127.0.0.1:8000/api/category",
+    "options": {
+      "method": "POST",
+      "body": {
+        "name": "Categoria ejemplo",
+        "description": "Descripción ejemplo",
+        "imagen": "imagen ejemplo",
+        "icon": "icono ejemplo",
+        "iconDescription": "icono ejemplo"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer dff44bcb-296d-49c1-9296-3bdfe7841985"
+      }
+    }
+  },
+  {
+    "url": "http://127.0.0.1:8000/api/category",
+    "options": {
+      "method": "GET",
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer dff44bcb-296d-49c1-9296-3bdfe7841985"
+      }
+    }
+  },
+  {
+    "url": "http://127.0.0.1:8000/api/category",
+    "options": {
+      "method": "POST",
+      "body": {
+        "name": "Categoria ejemplo",
+        "description": "Descripción ejemplo",
+        "imagen": "imagen ejemplo",
+        "icon": "icono ejemplo",
+        "iconDescription": "icono ejemplo"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer dff44bcb-296d-49c1-9296-3bdfe7841985"
+      }
+    }
+  }
+]
