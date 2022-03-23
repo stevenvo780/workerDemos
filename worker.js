@@ -21,7 +21,6 @@ async function makeRequest(requestInfo) {
 }
 
 function stringifyRequestBody(requestInfo) {
-  console.log(requestInfo);
   const { headers, body } = requestInfo.options;
   if (
     objectHasProperty(headers, "Content-Type") &&
